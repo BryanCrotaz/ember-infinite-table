@@ -1,0 +1,1 @@
+export { default } from 'ember-infinite-table/components/ember-infinite-table';
