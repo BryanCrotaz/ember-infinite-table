@@ -1,7 +1,7 @@
 {
   "name": "ember-infinite-table",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "Infinite scrolling table using list-view.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/BryanCrotaz/ember-infinite-table",
   "engines": {
     "node": ">= 0.10.0"
   },

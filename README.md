@@ -2,6 +2,8 @@
 
 This README outlines the details of collaborating on this Ember addon.
 
+[![Build Status](https://travis-ci.org/BryanCrotaz/ember-infinite-table.svg?branch=master)](https://travis-ci.org/BryanCrotaz/ember-infinite-table)
+
 ## Installation
 
 * `git clone` this repository
